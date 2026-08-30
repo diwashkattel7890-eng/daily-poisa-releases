@@ -1,5 +1,6 @@
 {
   "version": "1.7.0",
-  "download_url": "https://github.com/diwashkattel7890-eng/daily-poisa-releases/releases/download/v1.7.0/daily_paisa_v1.7.0.apk",
-  "release_notes": "Daily Poisa version 1.7.0"
+  "build": 9,
+  "apkUrl": "https://github.com/diwashkattel7890-eng/daily-poisa-releases/releases/download/v1.7.0/daily_paisa_v1.7.0.apk",
+  "notes": "Daily Poisa 1.7.0 is available. Download and install the latest version."
 }
