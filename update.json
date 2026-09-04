@@ -1,6 +1,12 @@
 {
-  "version": "2.4.0",
-  "build": 18,
-  "apkUrl": "https://github.com/diwashkattel7890-eng/daily-poisa-releases/releases/download/v2.4.0/daily_paisa_v2.4.0.apk",
-  "notes": "Daily Poisa 2.4.0 UI refresh: cleaner Home, premium dark mode, compact transaction rows, refined transfer form, and mobile-first spacing."
+  "version": "2.5.0",
+  "build": 19,
+  "apkUrl": "https://github.com/diwashkattel7890-eng/daily-poisa-releases/releases/download/v2.5.0/daily_paisa_v2.5.0.apk",
+ "releaseNotes": [
+    "Improved app stability and performance",
+    "Fixed transaction and account balance issues",
+    "Improved Data Health and data validation",
+    "Improved transaction management",
+    "Fixed minor bugs and improved overall user experience"
+  ]
 }
