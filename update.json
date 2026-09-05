@@ -1,6 +1,6 @@
 {
-  "version": "2.6.0",
-  "build": 20,
-  "apkUrl": "https://github.com/diwashkattel7890-eng/daily-poisa-releases/releases/download/v2.6.0/daily_paisa_v2.6.0.apk",
+  "version": "2.7.0",
+  "build": 21,
+  "apkUrl": "https://github.com/diwashkattel7890-eng/daily-poisa-releases/releases/download/v2.7.0/daily_paisa_v2.7.0.apk",
   "notes": "Balance/hold handling, audit notifications, feedback, Google sign-in conflict handling, verified profile, Today date filters, Firebase account deletion, navigation fixes and release notes."
 }
