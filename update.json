@@ -1,6 +1,6 @@
 {
-  "version": "2.7.0",
-  "build": 21,
-  "apkUrl": "https://github.com/diwashkattel7890-eng/daily-poisa-releases/releases/download/v2.7.0/daily_paisa_v2.7.0.apk",
-  "notes": "Balance/hold handling, audit notifications, feedback, Google sign-in conflict handling, verified profile, Today date filters, Firebase account deletion, navigation fixes and release notes."
+  "version": "2.8.0",
+  "build": 22,
+  "apkUrl": "https://github.com/diwashkattel7890-eng/daily-poisa-releases/releases/download/v2.8.0/daily_paisa_v2.8.0.apk",
+  "notes": "Loan receipt and payment flow improvements, main/sub account balance handling, loan outstanding and installment updates, transaction audit synchronization including deleted payments, expense/report/chart integration for loan payments, account balance charts, backup/restore improvements, Firebase data handling and stability fixes."
 }
