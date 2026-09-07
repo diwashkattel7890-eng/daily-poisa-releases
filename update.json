@@ -1,6 +1,6 @@
 {
-  "version": "3.0.1",
+  "version": "3.1.0",
   "build": 31,
-  "apkUrl": "https://github.com/diwashkattel7890-eng/daily-poisa-releases/releases/download/v3.0.1/daily_paisa_v3.0.1.apk",
-  "notes": "Daily Poisa v3.0.1 — complete A-Z admin permissions, Loan accounting improvements, financial security hardening, reports and reconciliation updates."
+  "apkUrl": "https://github.com/diwashkattel7890-eng/daily-poisa-releases/releases/download/v3.1.0/daily_paisa_v3.1.0.apk",
+  "notes": "Mobile-friendly role & permission management, Master Admin full control, Master-assigned permissions for Basic/Pro/Admin users, responsive user role form, profile/role synchronization, and permission/security improvements."
 }
