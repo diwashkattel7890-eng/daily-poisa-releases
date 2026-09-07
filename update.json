@@ -1,6 +1,6 @@
 {
-  "version": "3.0.0",
-  "build": 30,
-  "apkUrl": "https://github.com/diwashkattel7890-eng/daily-poisa-releases/releases/download/v3.0.0/daily_paisa_v3.0.0.apk",
+  "version": "3.0.1",
+  "build": 31,
+  "apkUrl": "https://github.com/diwashkattel7890-eng/daily-poisa-releases/releases/download/v3.0.1/daily_paisa_v3.0.1.apk",
   "notes": "Daily Poisa v3.0.0 — complete A-Z admin permissions, Loan accounting improvements, financial security hardening, reports and reconciliation updates."
 }
