@@ -1,6 +1,6 @@
 {
-  "version": "3.1.0",
-  "build": 31,
-  "apkUrl": "https://github.com/diwashkattel7890-eng/daily-poisa-releases/releases/download/v3.1.0/daily_paisa_v3.1.0.apk",
-  "notes": "Mobile-friendly role & permission management, Master Admin full control, Master-assigned permissions for Basic/Pro/Admin users, responsive user role form, profile/role synchronization, and permission/security improvements."
+  "version": "3.1.4",
+  "build": 35,
+  "apkUrl": "https://github.com/diwashkattel7890-eng/daily-poisa-releases/releases/download/v3.1.4/daily_paisa_v3.1.4.apk",
+  "notes": "Master email is unlimited; Master display role is editable; Basic/Pro keep defaults plus Master grants; Admin uses Master grants."
 }
