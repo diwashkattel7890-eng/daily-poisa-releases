@@ -1,6 +1,6 @@
 {
   "version": "3.1.7",
-  "build": 38,
+  "build": 37,
   "apkUrl": "https://github.com/diwashkattel7890-eng/daily-poisa-releases/releases/download/v3.1.7/daily_paisa_v3.1.7.apk",
   "notes": "Advanced dashboard UI, profile photo upload/change/delete, notification controls, This Month default date ranges, safer transaction reset with automatic cloud backup, account type icons, and Tools Roadmap removed."
 }
